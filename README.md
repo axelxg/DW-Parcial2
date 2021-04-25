@@ -10,15 +10,9 @@
 ## Parcial 2 de Diseño Web
 
 Este proyeceto de Diseño Web consiste en crear un CRUD de alguna tabla (estudiantes en este caso), con un inicio de sesión.
-
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Este proyeceto se realizón con:
+- El Framework Laravel.
+- Jetstream para el inicio de sesión.
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
