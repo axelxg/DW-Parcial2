@@ -21,4 +21,10 @@ Para iniciar sesión en este proyecto utilice los siguientes datos:
 - Nombre: Axel Ernesto Xiloj García
 - Carnét: 2008-18977
 
+## Material de apoyo:
+Para realizar este proyecto se utilizó como material de apoyo el Curso de Laravel desde Cero, del Canal de Youtube "Informática DP":
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQb05Q_9kiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+También se utilizó la documentación de Laravel: 
+
+https://laravel.com/docs/8.x/installation
