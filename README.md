@@ -13,7 +13,7 @@ Este proyecto se realizón con:
 
 Para iniciar sesión en este proyecto utilice los siguientes datos:
 
-- correo: axel.prueba@correo.com
+- correo: axel_xg@hotmail.com
 - contraseña: abcd1234
 
 ## Datos del estudiante:
