@@ -9,8 +9,9 @@
 
 ## Parcial 2 de Diseño Web
 
-Este proyeceto de Diseño Web consiste en crear un CRUD de alguna tabla (estudiantes en este caso), con un inicio de sesión.
-Este proyeceto se realizón con:
+Este proyecto de Diseño Web consiste en crear un CRUD de alguna tabla (estudiantes en este caso), con un inicio de sesión.
+Este proyecto se realizón con:
+
 - El Framework Laravel.
 - Jetstream para el inicio de sesión.
 
